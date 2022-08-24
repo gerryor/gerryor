@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerryor
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning R
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
